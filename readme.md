@@ -14,22 +14,6 @@ This project is shared for educational purposes only. It's crucial to use such s
 
 Special thanks to [IcEy-999](https://github.com/IcEy-999) for the hide and camouflage method used in this project. Their repository [Drv_Hide_And_Camouflage](https://github.com/IcEy-999/Drv_Hide_And_Camouflage) provided valuable insights and techniques.
 
-## Usage
-
-Explain here how users can utilize or experiment with this project.
-
 ## Contributions
 
 I will not actively accept contributions for this repository. Feel free to fork the project if you wish to make any modifications or improvements.
-
-## Legal
-
-It's important to note that using this software may have legal implications depending on your jurisdiction. Please ensure that you understand the legal consequences and responsibilities before using this code.
-
-## Acknowledgements
-
-Give credit or thanks to anyone or any resources that contributed to this project.
-
-## License
-
-Specify the license information for this project.
