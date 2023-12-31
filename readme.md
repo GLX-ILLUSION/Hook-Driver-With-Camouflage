@@ -16,4 +16,4 @@ Special thanks to [IcEy-999](https://github.com/IcEy-999) for the hide and camou
 
 ## Contributions
 
-I will not actively accept contributions for this repository. Feel free to fork the project if you wish to make any modifications or improvements.
+Feel free to fork the project if you wish to make any modifications or improvements.
